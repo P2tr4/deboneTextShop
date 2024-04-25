@@ -1,0 +1,12 @@
+gold mask  1  45
+sakura face gel  0  32
+Gentle Cleansing Foam  2  13
+Hydrating Facial Toner  4  2
+Nourishing Night Cream  6  8
+Daily Moisturizing Lotion  8  5
+Exfoliating Face Scrub  10  3
+Soothing Eye Cream  4  2
+Revitalizing Face Serum  2  9
+Sunscreen with SPF 30  7  6
+Purifying Clay Mask  10  17
+Calming Makeup Remover  0  15
